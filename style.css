@@ -7,7 +7,6 @@ button {
   outline: none;
 }
 
-
 /* Basic Style */
 
 .body {
@@ -24,11 +23,9 @@ button {
 }
 
 @media (max-width: 768px) {
-
   .header {
     text-align: center;
   }
-
 }
 
 .header__img {
